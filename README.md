@@ -16,11 +16,17 @@ The city hotel makes significantly more total revenue than the resort hotel, lik
 Our EDA focuses on the following business objectives:
 
 Maximize Occupancy Rates: Understand patterns in booking behavior to ensure maximum occupancy throughout the year.
+
 Optimize Pricing Strategy: Tailor pricing strategies based on when and how customers book rooms.
+
 Enhance Customer Satisfaction: Predict the likelihood of special requests to better prepare for guest needs.
+
 Efficient Resource Allocation: Understand the factors that influence cancellations to better manage room inventory.
+
 Tailored Marketing Efforts: Guide more effective marketing efforts with insights into customer behavior.
+
 Increase Revenue: All of the above objectives ultimately aim to increase hotel revenue.
+
 Tools and Techniques
 The project makes use of Python programming language along with libraries like Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Numpy for numerical computations.
 
@@ -30,10 +36,16 @@ The insights derived from this analysis can help hoteliers make informed decisio
 #Project Structure
 The project is divided into the following sections:
 
+
 Business Understanding and Problem Statement
+
 Data Loading and Cleanup
+
 Hypothesis and Assumptions
+
 Data Visualization
+
 Statistical Analysis
+
 Conclusions
 Regular commits have been made on GitHub throughout the project to track progress and maintain different versions of the project.
